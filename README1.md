@@ -16,7 +16,7 @@ In this lab, you'll be implementing a word guessing game where:
 
 Choose your preferred programming language and follow the instructions below:
 
-### Java Version
+### Java Versioncd
 
 Navigate to the `java/` directory to find:
 - `Hangman.java` - Main game class (empty, ready for implementation)
